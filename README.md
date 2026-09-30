@@ -1,0 +1,1 @@
+# storesathi-config
