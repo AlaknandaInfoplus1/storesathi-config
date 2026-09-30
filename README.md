@@ -1,12 +1,11 @@
-   {
-      "latestVersion": "1.0.1",
-      "minRequiredVersion": "1.0.1",
-      "releaseNotes": [
-        "⚡ 5-Second Superfast POS Billing",
-        "💬 1-Click WhatsApp Invoices",
-        "📦 Real-time Inventory & Low-Stock Alerts",
-        "📒 Customer Digital Khata Ledger"
-      ],
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.
-  storesathi.app"
-    }
+{
+  "latestVersion": "1.0.1",
+  "minRequiredVersion": "1.0.1",
+  "releaseNotes": [
+    "⚡ 5-Second Superfast POS Billing",
+    "💬 1-Click WhatsApp Invoices",
+    "📦 Real-time Inventory & Low-Stock Alerts",
+    "📒 Customer Digital Khata Ledger"
+  ],
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.storesathi.app"
+}
